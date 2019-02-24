@@ -1,4 +1,4 @@
-# PythonHL7Parsing
+# Python HL7 2.x Parsing
 Example for how to parse HL7 2.x messages using Python
 
 Explanation for files present in the repo:
